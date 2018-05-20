@@ -1,0 +1,37 @@
+
+
+#upload_box{
+	position: fixed;
+	top:-600;
+}
+
+body{
+	background: gray;
+}
+#sidebar{
+	/*position:fixed;*/
+	/*min-height: 300px;*/
+	padding: 10;
+	min-height:95%;
+}
+
+#songs_div{
+	margin:auto;
+	max-width: 90%;
+}
+
+
+#blur{
+	position: fixed;
+	height:100%;
+	width:100%;
+	background: black;
+
+	opacity: .5;
+	z-index: 100;
+	display: none;
+}
+
+#playlists{
+
+}

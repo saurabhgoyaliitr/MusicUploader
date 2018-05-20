@@ -1,0 +1,106 @@
+#pass_change_table{
+
+  float:left;
+  padding:5px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#th{
+ 
+  color: #31708f;
+  background: #d9edf7;
+  padding: 10;
+}
+
+table{
+
+  width:80%;
+  margin:50px;
+
+}
+
+#new_settings{
+  
+
+  min-height:619px;
+  background: white;
+
+
+
+}
+
+
+.button {
+    background-color: #5bc0de; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 4px;
+    margin: 4px 2px;
+    //cursor: pointer;
+}
+
+
+.button2 {
+    background-color: rgb(230, 71, 71); /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 4px;
+    margin: 4px 2px;
+    //cursor: pointer;
+}
+
+ #body {
+           background: #555 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAB9JREFUeNpi/P//PwM6YGLAAuCCmpqacC2MRGsHCDAA+fIHfeQbO8kAAAAASUVORK5CYII=);
+
+    }
+    
+    a {
+        color: #ccc;
+    }
+    
+
+    #new_sidebar{
+    margin-right:20px;
+    /*min-height:  619px;*/
+
+   /* position: fixed;*/
+   /* top:20px;*/
+     min-height: 95%;
+    /*padding: 10;*/
+      display: block;
+    height: 95%;
+
+    }
+
+
+
+#blur{
+  position: fixed;
+  height:100%;
+  width:100%;
+  background: black;
+
+  opacity: .5;
+  z-index: 100;
+  display: none;
+}
+
+#upload_box{
+    position: fixed;
+    top:-600px;
+}
+
+#playlists_table{
+  margin:0px;
+}
